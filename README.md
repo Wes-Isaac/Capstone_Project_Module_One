@@ -1,30 +1,29 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Capstone-Module-1
+> This is the capstone project of the Module 1. 
+> The project is  personalized and the topic chosen is about fictional Web development bootcamp. Photos and Dates are not real. 
+> The project Design followed Cindy Shin's [template](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
-Portfolio: setup and mobile version skeleton
+![Desktop Version](images/desktop.png)
+![Mobile Version](images/mobile.png)
 
-> This project is my portfolio setup for mobile device.
+# Project contains several sections:
 
-![screenshot](./images/Screenshot.png)
-![screenshot](./images/about.png)
-![screenshot](./images/about-2.png)
+- Header with social icons, logo and navigation
+- Headline 
+- Program section
+- Featured Speakers section
+- Partners section
+- Footer
 
-
-Additional description about the project and its features.
-
-It is bult with flexbox and css grid. It contains images some are background images to make it interactive with the user.
-
-## Built With
-
-- HTML
-- CSS
+# Built with
+- HTML5
+- CSS3
 - JavaScript
-- Github
+- Git and GitHub
 
-## Live Demo
-
-[Live Demo Link](https://wes-isaac.github.io/Portfolio/)
-
-
+# Live Demo
+> Project live demo [link](https://wes-isaac.github.io/Capstone_Project_Module_One/);
+> video presentation [link](https://wes-isaac.github.io/Capstone_Project_Module_One/);
 
 ## Getting Started
 
@@ -32,10 +31,9 @@ To get a local copy up and running follow these simple example steps.
 
 Clone the repo to your local machine.
 
-git clone https://github.com/Wes-Isaac/Portfolio.git
+git clone https://github.com/Wes-Isaac/Capstone_Project_Module_One.git
 
 cd Portfolio
-
 
 ## Authors
 
@@ -44,26 +42,17 @@ cd Portfolio
 - GitHub: [Yishak ,Wes-Isaac](https://github.com/Wes-Isaac)
 - LinkedIn: [@Yishak](https://www.linkedin.com/in/yishak-wesego-b404851a7/)
 
-👤 **Jeff**
-
-- GitHub: [Jeff](https://github.com/JEFFKAY16)
-
 ## 🤝 Contributing
+- Contributions, issues, and feature requests are welcome!
+- Feel free to check the [issues page](https://github.com/Wes-Isaac/Capstone_Project_Module_One/issues).
 
-Contributions, issues, and feature requests are welcome!
+# Show your support
+Give a ⭐ if you like this project!
 
-Feel free to check the [issues page](../../issues/).
+# Acknowledgments
+- Cindy Shin whose design template was used to create this project.
+- Unsplash for providing content related free pictures.
+- Thanks to my teammates, learning and coding partners.
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+# License
+This project is MIT licensed.
