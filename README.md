@@ -24,7 +24,7 @@
 # Live Demo
 > Project live demo [link](https://wes-isaac.github.io/Capstone_Project_Module_One/);
 
-> video presentation [link]https://www.loom.com/share/f1d16b08241149f6be4532e90b00c2fb);
+> video presentation [link](https://www.loom.com/share/f1d16b08241149f6be4532e90b00c2fb);
 
 ## Getting Started
 
