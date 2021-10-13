@@ -8,6 +8,10 @@
   color: #272a31;
 }
 
+.desktop {
+  display: none;
+}
+
 .bottom-nav {
   display: none;
 }

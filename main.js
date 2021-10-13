@@ -65,7 +65,8 @@ function speakersContent(info) {
 }
 
 const speakerContainer = document.querySelector('.speaker-container');
-
-for (let i = 0; i < speakers.length; i += 1) {
-  speakerContainer.innerHTML += speakersContent(speakers[i]);
+if (speakerContainer) {
+  for (let i = 0; i < speakers.length; i += 1) {
+    speakerContainer.innerHTML += speakersContent(speakers[i]);
+  }
 }

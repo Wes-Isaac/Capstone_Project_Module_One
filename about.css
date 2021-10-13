@@ -37,6 +37,54 @@ header .fa-bars {
   height: auto;
 }
 
+.invisible {
+  display: none;
+}
+
+.menu {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 90vh;
+  width: 100%;
+  z-index: 2;
+  background: rgba(85, 85, 87, 0.8);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.menu-ul {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-ul li {
+  list-style: none;
+  margin: 10px auto;
+}
+
+.menu-ul li a {
+  color: #fff;
+  font-size: 1.5rem;
+  text-decoration: none;
+  transition: all 0.35s ease-in-out;
+}
+
+.menu-ul li a:hover {
+  color: #ec5242;
+  font-size: 2rem;
+}
+
+.cancel-icon {
+  position: absolute;
+  top: 0;
+  left: 90%;
+  color: #fff;
+}
+
 main {
   padding: 1.5rem;
 }
@@ -65,6 +113,10 @@ main {
   padding: 0.5rem;
   text-align: center;
   font-weight: bold;
+}
+
+.section-1 p {
+  text-align: center;
 }
 
 .new {
