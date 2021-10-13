@@ -1,59 +1,52 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+Portfolio: setup and mobile version skeleton
 
-> One paragraph statement about the project.
+> This project is my portfolio setup for mobile device.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./images/Screenshot.png)
+![screenshot](./images/about.png)
+![screenshot](./images/about-2.png)
+
 
 Additional description about the project and its features.
 
+It is bult with flexbox and css grid. It contains images some are background images to make it interactive with the user.
+
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
+- Github
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://wes-isaac.github.io/Portfolio/)
+
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Clone the repo to your local machine.
 
-### Setup
+git clone https://github.com/Wes-Isaac/Portfolio.git
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+cd Portfolio
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Yishak**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Yishak ,Wes-Isaac](https://github.com/Wes-Isaac)
+- LinkedIn: [@Yishak](https://www.linkedin.com/in/yishak-wesego-b404851a7/)
 
-👤 **Author2**
+👤 **Jeff**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Jeff](https://github.com/JEFFKAY16)
 
 ## 🤝 Contributing
 
