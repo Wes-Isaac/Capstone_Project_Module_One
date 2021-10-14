@@ -1,76 +1,59 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Capstone-Module-1
+> This is the capstone project of the Module 1. 
+> The project is  personalized and the topic chosen is about fictional Web development bootcamp. Photos and Dates are not real. 
+> The project Design followed Cindy Shin's [template](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
-# Project Name
+![Desktop Version](images/desktop.png)
+![Mobile Version](images/mobile.png)
 
-> One paragraph statement about the project.
+# Project contains several sections:
 
-![screenshot](./app_screenshot.png)
+- Header with social icons, logo and navigation
+- Headline 
+- Program section
+- Featured Speakers section
+- Partners section
+- Footer
 
-Additional description about the project and its features.
+# Built with
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub
 
-## Built With
+# Live Demo
+> Project live demo [link](https://wes-isaac.github.io/Capstone_Project_Module_One/);
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+> video presentation [link](https://www.loom.com/share/f1d16b08241149f6be4532e90b00c2fb);
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Clone the repo to your local machine.
 
-### Setup
+git clone https://github.com/Wes-Isaac/Capstone_Project_Module_One.git
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+cd Portfolio
 
 ## Authors
 
-👤 **Author1**
+👤 **Yishak**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Yishak ,Wes-Isaac](https://github.com/Wes-Isaac)
+- LinkedIn: [@Yishak](https://www.linkedin.com/in/yishak-wesego-b404851a7/)
 
 ## 🤝 Contributing
+- Contributions, issues, and feature requests are welcome!
+- Feel free to check the [issues page](https://github.com/Wes-Isaac/Capstone_Project_Module_One/issues).
 
-Contributions, issues, and feature requests are welcome!
+# Show your support
+Give a ⭐ if you like this project!
 
-Feel free to check the [issues page](../../issues/).
+# Acknowledgments
+- Cindy Shin whose design template was used to create this project.
+- Unsplash for providing content related free pictures.
+- Thanks to my teammates, learning and coding partners.
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+# License
+This project is MIT licensed.
