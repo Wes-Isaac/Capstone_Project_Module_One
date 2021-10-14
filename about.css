@@ -91,9 +91,9 @@ main {
 }
 
 .section-1 {
-  margin: 4rem auto;
+  margin: 20px auto;
   padding: 1rem;
-  max-width: 80%;
+  max-width: 90%;
 }
 
 .section-1 > h1,
