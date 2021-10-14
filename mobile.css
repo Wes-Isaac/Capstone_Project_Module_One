@@ -86,13 +86,28 @@ header .fa-bars {
 }
 
 .section-1 {
-  height: 100vh;
   padding: 1rem;
 }
 
-.section-1 > h1,
+.section-1 article {
+  margin-bottom: 30px;
+}
+
+.date,
+.place {
+  margin: 10px auto;
+}
+
 .section-1 > h2 {
   color: #ec5242;
+  font-size: 2rem;
+  font-weight: lighter;
+}
+
+.section-1 .h2-big {
+  font-size: 2.5rem;
+  font-weight: bolder;
+  max-width: 70%;
 }
 
 .section-1 h1 {
@@ -110,7 +125,7 @@ header .fa-bars {
 }
 
 .section-1 p {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .section-2 {
@@ -119,7 +134,7 @@ header .fa-bars {
   flex-direction: column;
 }
 
-.section-2 h1 {
+.section-2 h2 {
   text-align: center;
   color: #fff;
   margin-top: 40px;
@@ -135,7 +150,7 @@ header .fa-bars {
   color: #fff;
 }
 
-.section-2 h2 {
+.section-2 .org {
   color: #ec5242;
 }
 
@@ -170,7 +185,7 @@ hr {
   border: 1px solid #ec5242;
 }
 
-.section-3 > h1 {
+.section-3 > h2 {
   width: 100%;
   margin: auto;
   margin-top: 40px;
@@ -192,10 +207,13 @@ hr {
   grid-template-columns: 1fr 2fr;
   column-gap: 10px;
   margin: 10px auto;
+  background: url(./images/ch_100x100.jpg) no-repeat;
 }
 
 .img-container {
   margin: 0 auto;
+  margin-left: 10px;
+  margin-top: 10px;
 }
 
 .img-container img {
