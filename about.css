@@ -86,6 +86,10 @@ header .fa-bars {
   color: #fff;
 }
 
+button {
+  border: none;
+}
+
 main {
   padding: 1.5rem;
 }

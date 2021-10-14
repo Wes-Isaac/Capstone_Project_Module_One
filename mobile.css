@@ -85,17 +85,21 @@ header .fa-bars {
   margin: 40px;
 }
 
+button {
+  border: none;
+}
+
 .section-1 {
   padding: 40px;
 }
 
 .section-1 article {
-  margin-bottom: 30px;
+  padding-bottom: 30px;
 }
 
 .date,
 .place {
-  margin: 10px auto;
+  padding: 10px;
 }
 
 .section-1 > h2 {
@@ -288,7 +292,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 2rem auto;
+  padding: 2rem 0;
   width: 90%;
 }
 
@@ -394,7 +398,9 @@ footer .div-2 p {
   }
 
   .section-1 {
-    padding: 60px;
+    padding: 0;
+    width: 80%;
+    margin: auto;
   }
 
   .section-1 > p {
@@ -447,5 +453,19 @@ footer .div-2 p {
 
   footer {
     justify-content: center;
+    width: 100%;
+    background: #000;
+  }
+
+  .div-1 .footer-icon {
+    color: #fff;
+  }
+
+  footer .div-1 h3 {
+    color: #fff;
+  }
+
+  footer .div-2 p {
+    color: #fff;
   }
 }
